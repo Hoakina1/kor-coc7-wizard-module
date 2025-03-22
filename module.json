@@ -19,7 +19,8 @@
       "path": "ko.json"
     }
 	],
-	"url": "https://github.com/MaronKB/CoC7kr",
-	"manifest": "https://raw.githubusercontent.com/MaronKB/CoC7kr/main/module.json",
-	"download": "https://github.com/MaronKB/CoC7kr/archive/main.zip"
+	"manifest": "https://Hoakina1.github.io/korean-coc7-wizard-module/module.json",
+        "download": "https://github.com/Hoakina1/korean-coc7-wizard-module/archive/refs/heads/main.zip",
+        "url": "https://github.com/Hoakina1/korean-coc7-wizard-module"
+
 }
